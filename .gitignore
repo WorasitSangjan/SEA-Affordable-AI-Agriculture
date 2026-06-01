@@ -1,0 +1,23 @@
+# Excel temp files
+~$*.xlsx
+~$*.xls
+~$*.csv
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Raw export files (too large / not screened)
+WoS_*.xls
+WoS_*.xlsx
+lens-*.csv
+
+# Screening working files
+NewPapers_*.xlsx
+*_TitleScreening.xlsx
+*_DeepScan.xlsx
+
+# Manuscript drafts (not part of the open data repo)
+*.docx
