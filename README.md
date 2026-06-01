@@ -90,7 +90,7 @@ Papers are tagged to one or more of the following manuscript sections:
 
 If you use this database or search strategy in your own work, please cite the associated paper:
 
-> Will be updated soon*
+> *Will be updated soon*
 
 ---
 
