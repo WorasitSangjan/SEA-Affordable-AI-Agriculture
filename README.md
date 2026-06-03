@@ -3,7 +3,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> *Will be updated soon*
+> **Associated paper:** Worasit Sangjan, Sirapoom Peanusahab, Ittipon Khuimphukhieod, Kittiphum Pawikhumc — *"Affordable AI for Agriculture in Southeast Asia: Insights and Lessons for Developing Countries"* — *(Under review)*
 
 ---
 
@@ -86,11 +86,20 @@ Papers are tagged to one or more of the following manuscript sections:
 
 ---
 
+## Changelog
+
+| Date | Change |
+|---|---|
+| 2026-06-02 | DOI verified and added for 5 records: Joochim et al. (2023), Hoyos-Villegas et al. (2025), Lim et al. (2024), Sadikin et al. (2023), Azlan et al. (2024). Titles corrected for Hoyos-Villegas and Azlan. |
+| 2026-05-25 | Initial database release (502 entries, 14 columns, search strategy). |
+
+---
+
 ## How to cite
 
 If you use this database or search strategy in your own work, please cite the associated paper:
 
-> Will be updated soon*
+> Sangjan W., Peanusahab S., Khuimphukhieod I., Pawikhumc K. (2026). *Affordable AI for Agriculture in Southeast Asia: Insights and Lessons for Developing Countries*. *(Under review)*
 
 ---
 

@@ -21,3 +21,7 @@ NewPapers_*.xlsx
 
 # Manuscript drafts (not part of the open data repo)
 *.docx
+
+# Database backup files
+*_pre_doi_update.csv
+*_backup.csv
